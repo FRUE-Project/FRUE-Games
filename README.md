@@ -4,7 +4,6 @@ This is the FRUE-Games repository; a repo with all of the FRUE project's games, 
 
 # Requirements
 - Bash
-- Python3
 
 # FRUE community
 FRUE Community Discord server: https://discord.gg/qRysc6bVRv
