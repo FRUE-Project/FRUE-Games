@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 player_1="X"
 player_2="O"
