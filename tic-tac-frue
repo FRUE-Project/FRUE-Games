@@ -15,7 +15,7 @@ welcome_message() {
 	echo "version 0.1-alpha"
 	sleep 0.5
 	echo "================"
-	echo "GitHub Repository at: https://github.com/Suppabreak/FRUE-Games"
+	echo "GitHub Repository at: https://github.com/FRUE-Project/FRUE-Games"
 	sleep 3
 }
 
